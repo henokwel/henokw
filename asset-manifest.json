@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/henokwel/henokw.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/henokwel/henokw.git/static/js/main.926c2937.chunk.js",
+    "main.js.map": "/henokwel/henokw.git/static/js/main.926c2937.chunk.js.map",
+    "runtime-main.js": "/henokwel/henokw.git/static/js/runtime-main.ab53c1ee.js",
+    "runtime-main.js.map": "/henokwel/henokw.git/static/js/runtime-main.ab53c1ee.js.map",
+    "static/js/2.bd5ec5b1.chunk.js": "/henokwel/henokw.git/static/js/2.bd5ec5b1.chunk.js",
+    "static/js/2.bd5ec5b1.chunk.js.map": "/henokwel/henokw.git/static/js/2.bd5ec5b1.chunk.js.map",
+    "index.html": "/henokwel/henokw.git/index.html",
+    "precache-manifest.5fc0a175f133ebd812bda2ab61db1bb5.js": "/henokwel/henokw.git/precache-manifest.5fc0a175f133ebd812bda2ab61db1bb5.js",
+    "service-worker.js": "/henokwel/henokw.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/henokwel/henokw.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bd5ec5b1.chunk.js.LICENSE.txt": "/henokwel/henokw.git/static/js/2.bd5ec5b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/henokwel/henokw.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab53c1ee.js",
+    "static/js/2.bd5ec5b1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.926c2937.chunk.js"
+  ]
+}
